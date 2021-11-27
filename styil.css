@@ -1,0 +1,26 @@
+body{
+    background-color: silver;
+}
+.days {
+    background-color: darkblue;
+    color: skyblue;
+}
+table {
+    margin: auto;
+    width: 540px;
+    height: 500px;
+    background: #ABA9A6;
+background: -moz-linear-gradient(left, #ABA9A6 0%, #1C6EA4 69%, #1618C5 100%);
+background: -webkit-linear-gradient(left, #ABA9A6 0%, #1C6EA4 69%, #1618C5 100%);
+background: linear-gradient(to right, #ABA9A6 0%, #1C6EA4 69%, #1618C5 100%);
+}
+
+th{
+    width: 80px;
+    height: 50px;
+}
+td{
+    width: 50px;
+    height: 50px;
+}
+
